@@ -19,7 +19,7 @@ The html version for collect_data.ipynb
 
 5. data_cleaning.ipynb
 
-A Jupyter Notebook file to clean the raw data sets. We deleted comments which are less than 10 words and delete the similar comments.
+A Jupyter Notebook file to clean the raw data sets. We deleted comments which are less than 10 words and delete the similar comments. Use SampleRedditComments.csv (The real Reddit Comment table is much larger)
 
 6. data_cleaning.html
 
