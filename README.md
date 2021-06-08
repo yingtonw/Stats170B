@@ -25,18 +25,26 @@ A Jupyter Notebook file to clean the raw data sets. We deleted comments which ar
 
 The html version for data_cleaning.ipynb
 
-7. classification_model.ipynb
+7. calcualte_index.ipynb
+
+A Jupyter Notebook file to calculate scare index and death_rate. The output of this file is our final table called "combined_index.csv".
+
+8. calcualte_index.html
+
+The html version for calcualte_index.ipynb
+
+9. classification_model.ipynb
 
 A Jupyter Notebook file for classification models, including KNN, RandomRorest and DecisionTree. We fit and evaluate the models. Use combined_index.csv
 
-8. classification_model.html
+10. classification_model.html
 
 The html version for classification_model.ipynb
 
-9. time_series_model.ipynb
+11. time_series_model.ipynb
 
 A Jupyter Notebook file for ARIMA models, including fitting and evaluating. Use combined_index.csv
 
-10. time_series_model.html
+12. time_series_model.html
 
 The html version for time_series_model.ipynb
